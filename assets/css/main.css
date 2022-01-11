@@ -64,7 +64,7 @@ mark {
 	margin-top: -105px;
 }
 .logo2{
-	width: 20%;
+	width: 25%;
 }
 .vectores {
 	width: 15%;
@@ -80,6 +80,9 @@ mark {
 }
 .st2color{
 	color: #02c4bf;
+}
+#kpis{
+	text-transform: none;
 }
 
 input::-moz-focus-inner {
@@ -182,6 +185,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		
 	}
 
 	h1, h2, h3, h4, h5, h6 {
