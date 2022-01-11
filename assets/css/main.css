@@ -63,6 +63,9 @@ mark {
 	width: 35%;
 	margin-top: -105px;
 }
+.logo2{
+	width: 20%;
+}
 .vectores {
 	width: 15%;
 }
@@ -3874,7 +3877,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#main > header {
-				padding: 8em 3em 6em 3em ;
+				padding: 6em 3em 2em 3em ;
 			}
 
 		}
