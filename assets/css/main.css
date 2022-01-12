@@ -84,6 +84,15 @@ mark {
 #kpis{
 	text-transform: none;
 }
+#divkpi{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+#imgkpi{
+	width: 40%;
+	border-radius: 5px;
+}
 
 input::-moz-focus-inner {
 	border: 0;
@@ -2721,6 +2730,7 @@ input, select, textarea {
 			max-width: 48em;
 			width: 60%;
 		}
+	
 
 		.spotlight:nth-child(2n) {
 			-moz-flex-direction: row-reverse;
