@@ -134,8 +134,14 @@ mark {
 .profile a {
 	width: 30vh;
 }
+.linkprofiles{
+	margin-top: 2vh;
+	margin-bottom: 8vh;
+	
+}
 .linkedins {
 	color: #02c4bf;
+	padding: 1em 1em 1em 1em;
 }
 .linkedins:hover{
 	color: #F7ac38;
@@ -2099,6 +2105,9 @@ input, select, textarea {
 		}
 
 /* Icon */
+	.icon2{
+		font-size: 2em;
+	}
 
 	.icon {
 		text-decoration: none;
