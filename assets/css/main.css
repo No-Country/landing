@@ -130,6 +130,9 @@ mark {
 	color: #F7ac38;
 }
 
+.flags{
+	width: 5%;
+}
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
