@@ -104,10 +104,30 @@ mark {
 	border-radius: 5px;
 } 	
 .imgteam{
-	width: 10%;
+	width: 8%;
 	border-radius: 100px;
 	margin: 3%;
 
+}
+@media screen and (max-width: 736px){
+	.imgteam{
+		width: 25%;
+	}
+}
+.profile{
+	display: flex;
+	justify-self: center;
+	flex-direction: column;
+	width: 200vh;
+}
+.profile a {
+	width: 30vh;
+}
+.linkedins {
+	color: #02c4bf;
+}
+.linkedins:hover{
+	color: #F7ac38;
 }
 
 input::-moz-focus-inner {
