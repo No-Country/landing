@@ -131,7 +131,8 @@ mark {
 }
 
 .flags{
-	width: 2%;
+	width: 9vh;
+	height: 5vh;
 }
 input::-moz-focus-inner {
 	border: 0;
