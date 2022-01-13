@@ -113,6 +113,10 @@ mark {
 	.imgteam{
 		width: 25%;
 	}
+	.flags{
+		width: 12vh;
+		height: 8vh;
+	}
 }
 .profile{
 	display: flex;
