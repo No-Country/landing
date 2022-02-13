@@ -3822,6 +3822,10 @@ input, select, textarea {
 				padding: 7em 3em 5em 3em ;
 				height: auto;
 				min-height: 0;
+				-moz-transition: opacity 3s ease-in-out;
+				-webkit-transition: opacity 3s ease-in-out;
+				-ms-transition: opacity 3s ease-in-out;
+				transition: opacity 3s ease-in-out;
 			}
 
 				#banner h2 {
